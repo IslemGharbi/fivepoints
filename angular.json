@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fivepoint"
+    }
+  },
+  "defaultProject": "fivepoint",
+  "cli": {
+    "analytics": false
+  }
 }
